@@ -49,7 +49,7 @@ A comprehensive web application for tracking personal finances with transaction 
 1. Clone the repository:
    ```bash
    git clone https://github.com/SVPraveen1/finance_app-stage2.git
-   cd finance-tracker-stage2
+   cd finance_app-stage2
 
 2. Install dependencies:
 
